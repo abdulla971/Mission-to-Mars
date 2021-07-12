@@ -10,3 +10,4 @@ Various websites are scraped for data relevant to the Mission to Mars using a we
 - images folder: Seven total .jpg images of the Mission to Mars web HTML web page app.
 
 ## Instructions to Use:
+To excuse the application do the following navigate to the directory using a console. Run mars_app.py as Python file type.
